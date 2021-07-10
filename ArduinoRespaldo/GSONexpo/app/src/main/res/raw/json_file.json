@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "animal": "leopardo",
+        "especie": "terrestre",
+        "habilidades": [
+            "velocidad extrema",
+            "cazar"
+        ]
+    },{
+        "id": 2,
+        "animal": "delfin",
+        "especie": "marino",
+        "habilidades": [
+            "nadar",
+            "brincar"
+        ]
+    }
+]

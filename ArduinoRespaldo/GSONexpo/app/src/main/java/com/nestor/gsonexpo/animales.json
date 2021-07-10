@@ -1,0 +1,20 @@
+/*{
+  "id": 1,
+  "animal": "leon",
+  "especie": "terrestre",
+  "habilidades": [
+    "cazar",
+    "reinar"
+  ]
+}
+*/
+[
+  {
+    "animal": "vaca",
+    "edad": 5
+  },
+  {
+    "animal": "gallina",
+    "edad": 1
+  }
+]

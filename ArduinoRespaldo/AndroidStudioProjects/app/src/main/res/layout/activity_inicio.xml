@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Inicio">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prueba de Permisos"
+        android:layout_marginTop="150sp"
+        android:textSize="45sp"
+        android:gravity="center_horizontal"/>
+
+    <ImageButton
+        android:id="@+id/btn_llamar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:text="Llamar"
+        android:textSize="50sp"
+        android:src="@drawable/ic_call"
+        android:tooltipText="Llamar"
+        android:padding="25sp"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>

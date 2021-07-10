@@ -1,0 +1,9 @@
+{
+  "especie": "terrestre",
+  "habilidades": [
+    "cazar",
+    "reinar"
+  ],
+  "id": 1,
+  "nombre": "leon"
+}
